@@ -12,7 +12,7 @@
 	<artifactId>Exam</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Exam</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Course work for sky.pro</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
@@ -34,7 +34,12 @@
 			<version>4.5.1</version>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
 	<build>
 		<plugins>

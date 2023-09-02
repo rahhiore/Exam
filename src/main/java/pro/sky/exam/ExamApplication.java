@@ -1,4 +1,4 @@
-package pro.sky.Exam;
+package pro.sky.exam;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
